@@ -1,2 +1,2 @@
 # portfolio
-This portfolio contains a number of projects
+This portfolio contains the logical hierarchy of four projects
